@@ -314,18 +314,3 @@
 </details>
 
 ---
-
-## Contributors
-
-<a href="https://github.com/boostcamp-ai-tech-4/ai-tech-interview/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=boostcamp-ai-tech-4/ai-tech-interview" />
-</a>
-
----
-
-## References
-
-- [zzsza님의 Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)
-- [DopplerHQ님의 awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-- [JaeYeopHan님의 Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-- [WeareSoft님의 tech-interview](https://github.com/WeareSoft/tech-interview)
