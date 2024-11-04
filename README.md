@@ -5,25 +5,25 @@
   <summary>알고리즘</summary>
   <!-- 내용 -->
   ```python
-Q : 질문 작성
+  Q : 질문 작성
 
-//
+  //
 
-A : 답안 작성
-```
+  A : 답안 작성
+  ```
 </details>
 
 ## 자료구조
 <details>
   <summary>자료구조</summary>
   <!-- 내용 -->
-```python
-Q : 질문 작성
+  ```python
+  Q : 질문 작성
 
-//
+  //
 
-A : 답안 작성
-```
+  A : 답안 작성
+  ```
 </details>
 
 ## 인공지능
@@ -31,23 +31,10 @@ A : 답안 작성
   <summary>인공지능</summary>
   <!-- 내용 -->
   ```python
-Q : 질문 작성
+  Q : 질문 작성
 
-//
+  //
 
-A : 답안 작성
-```
-</details>
-
-## 선형대수
-<details>
-  <summary>선형대수</summary>
-  <!-- 내용 -->
-```python
-Q : 질문 작성
-
-//
-
-A : 답안 작성
-```
+  A : 답안 작성
+  ```
 </details>
